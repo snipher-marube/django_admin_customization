@@ -1,5 +1,18 @@
 # Django Admin Site Customization
 
+## What is this?
+
+This is a Django project that demonstrates how to customize the Django admin site.
+
+
+## What is the Django admin site?
+
+The Django admin site is a built-in Django app that allows you to create, read, update, and delete (CRUD) records in your database. It is a great tool for managing your database, but it is not meant to be used as a public-facing website. It is meant to be used by site administrators only.
+
+## Why customize the Django admin site?
+
+The Django admin site is a great tool for managing your database, but it is not meant to be used as a public-facing website. It is meant to be used by site administrators only. If you want to use the Django admin site as a public-facing website, you will need to customize it to make it look more like a public-facing website.
+
 
 
 ## Want to use this project?
